@@ -13,5 +13,8 @@ public class Test {
 	void disp(){
 		System.out.println("I am in disp");
 	}
+	void disp2(){
+		System.out.println("I am in disp");
+	}
 
 }
