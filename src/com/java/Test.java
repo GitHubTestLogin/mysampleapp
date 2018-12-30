@@ -9,5 +9,9 @@ public class Test {
 		
 
 	}
+	
+	void disp(){
+		System.out.println("I am in disp");
+	}
 
 }
